@@ -62,3 +62,10 @@ layout: default
 
 　　最后，带个便携卡针或者用回形针应急总没错。虽然eSIM是未来，但物理SIM卡在当下依然是最普适的选择。希望你在立陶宛的每一刻，都能随时随地把美景分享给在乎的人。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Lithuania SIM 卡购买与激活指南](https://faciylike.github.io/lithuania-sim-guides)
